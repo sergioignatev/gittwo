@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gittwo/static/css/main.80448e0d.css",
+    "main.js": "/gittwo/static/js/main.8cfe01a6.js",
+    "static/js/787.a8bcf6e6.chunk.js": "/gittwo/static/js/787.a8bcf6e6.chunk.js",
+    "index.html": "/gittwo/index.html",
+    "main.80448e0d.css.map": "/gittwo/static/css/main.80448e0d.css.map",
+    "main.8cfe01a6.js.map": "/gittwo/static/js/main.8cfe01a6.js.map",
+    "787.a8bcf6e6.chunk.js.map": "/gittwo/static/js/787.a8bcf6e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80448e0d.css",
+    "static/js/main.8cfe01a6.js"
+  ]
+}
