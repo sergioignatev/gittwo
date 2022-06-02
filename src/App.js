@@ -37,7 +37,7 @@ function App() {
             <Link to="/manatee"><button class="btn btn-info">Manatee</button></Link>
            <Link to="/narwhal"><button class="btn btn-default">Narwhal</button></Link>
             <Link to="/whale"><button class='btn'>Whale</button></Link>
-            <Link to="/"><button class="btn">Home</button></Link>
+            <Link to="/"><button class="btn">Homee</button></Link>
           
            
           </div>
