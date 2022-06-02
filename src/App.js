@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="wrapper">
       <h1 class="marine">Marine Mammals</h1>
-      <BrowserRouter>
+      <HashRouter>
       <nav class="buttons">
           <div class="mt-5">
          
@@ -62,7 +62,7 @@ function App() {
          
 
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
