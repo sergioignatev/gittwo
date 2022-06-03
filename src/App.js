@@ -34,26 +34,26 @@ function App() {
       <nav class="buttons">
           <div class="mt-5">
          
-            <Link to="/manatee"><button class="btn btn-info">Manatee</button></Link>
-           <Link to="/narwhal"><button class="btn btn-default">Narwhal</button></Link>
-            <Link to="/whale"><button class='btn'>Whale</button></Link>
-            <Link to="/"><button class="btn">Homee</button></Link>
+            <Link to="#/manatee"><button class="btn btn-info">Manatee</button></Link>
+           <Link to="#/narwhal"><button class="btn btn-default">Narwhal</button></Link>
+            <Link to="#/whale"><button class='btn'>Whale</button></Link>
+            <Link to="#/"><button class="btn">Homee</button></Link>
           
            
           </div>
         </nav>
         <Switch>
-          <Route path="/manatee">
+          <Route path="#/manatee">
             <Manatee />
           </Route>
-          <Route path="/narwhal">
+          <Route path="#/narwhal">
             <Narwhal />
           </Route>
 
-          <Route path="/whale">
+          <Route path="#/whale">
             <Whale/>
           </Route>
-          <Route path="/">
+          <Route path="#/">
             <Spain />
           </Route>
 
